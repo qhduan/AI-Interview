@@ -9,3 +9,7 @@ Reference: [Top AI Interview Questions & Answers — Acing the AI Interview,
 - What is overfitting? How do we avoid it?
 - How do you decide between model accuracy and model performance?
 - What’s the difference between Type I and Type II error?
+
+## Algorithm Interview Notes Chinese
+
+[Algorithm_Interview_Notes-Chinese, imhuay, GitHub](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
